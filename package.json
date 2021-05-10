@@ -29,7 +29,7 @@
     "koa-compose": "4.1.0",
     "koa-router": "7.4.0",
     "koa-static": "4.0.2",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "methods": "1.1.2",
     "path-matching": "0.0.2",
     "tslib": "1.9.3",
